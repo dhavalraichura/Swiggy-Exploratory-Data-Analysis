@@ -1,0 +1,1 @@
+While scrolling through my Instagram feed I saw multiple food bloggers promoting a lot of food stalls and eateries which led me to wonder which are the restaurants that are actually liked and preferred by the people. This instigated me to perform some Data Analysis on the dataset from Swiggy.
